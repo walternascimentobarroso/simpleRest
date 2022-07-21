@@ -2,6 +2,7 @@
 
 ```
 docker-compose up -d
+composer install
 ```
 
 ## Stop project
